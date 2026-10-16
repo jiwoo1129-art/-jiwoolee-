@@ -117,7 +117,7 @@ export function renderPortfolio({ portraitSrc }) {
         <p class="hero-copy ko">소비자 인사이트를 명확한 전략과 유용한 콘텐츠, 실제 디지털 결과물로 연결하는 경영학 전공생입니다.</p>
         <div class="cta-row">
           <a class="cta cta-primary" href="#projects"><span class="en">Explore Projects</span><span class="ko">프로젝트 보기</span></a>
-          <a class="cta cta-secondary" href="https://comply-ai-beauty-listing-studio-copy.jiwoolee1129.chatgpt.site/" target="_blank" rel="noopener noreferrer"><span class="en">View Featured Project</span><span class="ko">대표 프로젝트 열기</span></a>
+          <a class="cta cta-secondary" href="https://jiwoo1129-art.github.io/K-Beauty/" target="_blank" rel="noopener noreferrer"><span class="en">View Featured Project</span><span class="ko">대표 프로젝트 열기</span></a>
         </div>
         <div class="hero-meta"><span><strong>Based in</strong> Seoul, Korea</span><span><strong>Education</strong> Gachon University · B.B.A. 2028</span></div>
       </div>
@@ -140,7 +140,7 @@ export function renderPortfolio({ portraitSrc }) {
     <section class="section projects-section" id="projects"><div class="shell">
       <div class="section-head"><p class="section-kicker">Selected Projects</p><h2><span class="en">Projects built at the intersection of insight and action.</span><span class="ko">인사이트와 실행이 만나는 프로젝트.</span></h2></div>
       <div class="project-grid">
-        <article class="project-card featured"><span class="project-label">Featured · AI product</span><h3>Amazon A+ Content Compliance Writer</h3><p class="en">Designed and built a website that identifies non-compliant copy and supports policy-aware A+ Content creation through vibe coding.</p><p class="ko">아마존 A+ 콘텐츠의 위반 문구를 검증하고 규정에 맞는 카피 작성을 돕는 웹 서비스를 바이브 코딩으로 설계·제작했습니다.</p><a class="project-link" href="https://comply-ai-beauty-listing-studio-copy.jiwoolee1129.chatgpt.site/" target="_blank" rel="noopener noreferrer"><span class="en">Open live project</span><span class="ko">프로젝트 열기</span></a></article>
+        <article class="project-card featured"><span class="project-label">Featured · AI product</span><h3>Amazon A+ Content Compliance Writer</h3><p class="en">Designed and built a website that identifies non-compliant copy and supports policy-aware A+ Content creation through vibe coding.</p><p class="ko">아마존 A+ 콘텐츠의 위반 문구를 검증하고 규정에 맞는 카피 작성을 돕는 웹 서비스를 바이브 코딩으로 설계·제작했습니다.</p><a class="project-link" href="https://jiwoo1129-art.github.io/K-Beauty/" target="_blank" rel="noopener noreferrer"><span class="en">Open live project</span><span class="ko">프로젝트 열기</span></a></article>
         <article class="project-card"><span class="project-label">Service concept · AI architecture</span><h3>AI-Powered Luxury Concierge Platform</h3><p class="en">Developed a trusted decision-support service concept around real customer needs.</p><p class="ko">실제 고객 니즈와 신뢰를 중심으로 럭셔리 의사결정 지원 서비스 콘셉트와 AI 구조를 설계했습니다.</p></article>
         <article class="project-card"><span class="project-label">Research · Executive presentation</span><h3>Apollo Sport Capital Research</h3><p class="en">Built research materials, reviewed English content, and presented at IFC Seoul.</p><p class="ko">리서치 자료 제작과 영문 교정을 수행하고 IFC 서울에서 임원진 대상 발표를 진행했습니다.</p></article>
       </div>

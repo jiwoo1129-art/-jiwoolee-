@@ -48,7 +48,8 @@ test('renders portfolio navigation and section anchors', async () => {
 test('renders two distinct calls to action', async () => {
   const html = await loadBuiltHtml();
   assert.match(html, /class="cta[^>]*" href="#projects"/);
-  assert.match(html, /class="cta[^>]*" href="https:\/\/comply-ai-beauty-listing-studio-copy\.jiwoolee1129\.chatgpt\.site\/"/);
+  assert.match(html, /class="cta[^>]*" href="https:\/\/jiwoo1129-art\.github\.io\/K-Beauty\/"/);
+  assert.doesNotMatch(html, /comply-ai-beauty-listing-studio-copy\.jiwoolee1129\.chatgpt\.site/);
 });
 
 test('renders three project cards and timeline content', async () => {
